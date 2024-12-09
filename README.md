@@ -19,3 +19,16 @@ The **Hospital Management System** is a console-based application developed in *
 1. Clone the repository to your local machine:
    ```bash
    git clone <repository-url>
+
+   Usage
+	•	Upon launching the program, the user will be prompted to enter a username and password.
+	•	After a successful login, users can choose from various options available in the main menu.
+	•	Follow the on-screen instructions to add patient records, view patients, and manage emergency situations.
+
+Contributing
+
+Contributions are encouraged! If you encounter any bugs or wish to enhance the application, please open an issue or submit a pull request.
+
+License
+
+This project is licensed under the MIT License.
